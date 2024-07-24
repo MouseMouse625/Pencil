@@ -1,0 +1,1 @@
+This is a model of a pencil in CAD. There is a .GLB/.GLTF file allowing for the textures to be stored, .stl and .step files for just the topographic model.
